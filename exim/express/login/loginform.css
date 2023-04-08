@@ -1,0 +1,32 @@
+#forms{
+    height: 300px; width: 200px;
+    background-color: rgb(36, 164, 189);
+   display: block;
+   margin: 40px;
+   margin-left: 200px;
+   border: groove  black;
+   border-radius: 10px;
+   color: rgb(92, 92, 245);
+   
+   
+}
+#username{
+    background-color: blue;
+    
+}
+#login{
+    margin: 1rem;
+    border-radius: 10px;
+   
+    
+}
+
+#forms button{
+    background-color: rgb(110, 243, 110);
+    margin-top: 10px;
+    
+}
+
+#forms h3{
+    margin-left: 20px;
+}

@@ -5,6 +5,8 @@
 // import {c} from "./app.js"
 // console.log(c.task(3,4)
 // module
-let {add,sub}= require( "./app");
-console.log(add(3,4));
-console.log(sub(3,4));
+// let {add,sub}= require( "./app");
+// console.log(add(3,4));
+// console.log(sub(3,4));
+
+console.log('hi');
